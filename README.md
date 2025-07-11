@@ -3,8 +3,7 @@
 > 논문: [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)  
 > 저자: Shinn et al. (2022)  
 > 목적: LLM의 **추론(Reasoning)**과 **행동(Acting)** 능력을 결합해 상호작용적이고 신뢰성 있는 문제 해결 능력 강화
-
----
+1
 
 ## 개요
 
